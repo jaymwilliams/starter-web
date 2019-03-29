@@ -14,6 +14,6 @@ Sample website with plenty of files for demos
 
 More things to contribute
 
-## Deplyoment
+## Deployment
 
 How to deploy
