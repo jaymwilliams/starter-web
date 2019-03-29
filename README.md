@@ -4,7 +4,7 @@ this is a simple website project to see
 
 ## Introduction
 
-A nice Introduction
+this is an example to show how things work
 
 ## Purpose
 
